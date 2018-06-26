@@ -1,0 +1,28 @@
+body {
+	background-color: #fff;
+}
+
+.jumbotron {
+    margin-bottom: 50px;
+    background-image: url(./img/concrete.jpg);
+    background-position: 0% 25%;
+    background-repeat: no-repeat;
+    color: white;
+}
+h1 {
+	margin-left: 75px;
+	text-shadow: 1px .5px 4px rgba(0,0,0, 0.6);
+}
+.p_head {
+	margin-left: 75px;
+	text-shadow: 1px .5px 4px rgba(0,0,0, 0.6);
+}
+
+div .container {
+	margin-left: 75px;
+}
+
+div .card-body {
+	font-size: 14pt;
+}
+
